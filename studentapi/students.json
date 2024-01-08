@@ -1,0 +1,122 @@
+[
+    {
+        "name": "John Doe",
+        "department": "Engineering",
+        "phoneNumber": "+1 123-456-7890",
+        "dob": "1990-05-15"
+    },
+    {
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "phoneNumber": "+1 234-567-8901",
+        "dob": "1985-08-22"
+    },
+    {
+        "name": "Michael Johnson",
+        "department": "Human Resources",
+        "phoneNumber": "+1 345-678-9012",
+        "dob": "1978-11-10"
+    },
+    {
+        "name": "Emily Brown",
+        "department": "Finance",
+        "phoneNumber": "+1 456-789-0123",
+        "dob": "1995-03-27"
+    },
+    {
+        "name": "Daniel Lee",
+        "department": "IT",
+        "phoneNumber": "+1 567-890-1234",
+        "dob": "1982-09-05"
+    },
+    {
+        "name": "Olivia Taylor",
+        "department": "Sales",
+        "phoneNumber": "+1 678-901-2345",
+        "dob": "1998-07-18"
+    },
+    {
+        "name": "David Wilson",
+        "department": "Customer Support",
+        "phoneNumber": "+1 789-012-3456",
+        "dob": "1989-01-30"
+    },
+    {
+        "name": "Sophia Miller",
+        "department": "Research and Development",
+        "phoneNumber": "+1 890-123-4567",
+        "dob": "1975-06-12"
+    },
+    {
+        "name": "Ethan Davis",
+        "department": "Legal",
+        "phoneNumber": "+1 901-234-5678",
+        "dob": "1993-04-03"
+    },
+    {
+        "name": "Ava Martinez",
+        "department": "Operations",
+        "phoneNumber": "+1 012-345-6789",
+        "dob": "1987-12-08"
+    },
+    {
+        "name": "Matthew Garcia",
+        "department": "Quality Assurance",
+        "phoneNumber": "+1 123-456-7890",
+        "dob": "1980-02-14"
+    },
+    {
+        "name": "Emma Rodriguez",
+        "department": "Public Relations",
+        "phoneNumber": "+1 234-567-8901",
+        "dob": "1991-10-25"
+    },
+    {
+        "name": "Liam Hernandez",
+        "department": "Facilities",
+        "phoneNumber": "+1 345-678-9012",
+        "dob": "1984-08-07"
+    },
+    {
+        "name": "Aria Smith",
+        "department": "Event Planning",
+        "phoneNumber": "+1 456-789-0123",
+        "dob": "1996-06-19"
+    },
+    {
+        "name": "Noah Brown",
+        "department": "Procurement",
+        "phoneNumber": "+1 567-890-1234",
+        "dob": "1983-03-01"
+    },
+    {
+        "name": "Mia Taylor",
+        "department": "Health and Safety",
+        "phoneNumber": "+1 678-901-2345",
+        "dob": "1997-09-14"
+    },
+    {
+        "name": "Lucas Wilson",
+        "department": "Training",
+        "phoneNumber": "+1 789-012-3456",
+        "dob": "1986-04-26"
+    },
+    {
+        "name": "Isabella Lee",
+        "department": "Community Relations",
+        "phoneNumber": "+1 890-123-4567",
+        "dob": "1992-11-07"
+    },
+    {
+        "name": "Logan Miller",
+        "department": "Creative Design",
+        "phoneNumber": "+1 901-234-5678",
+        "dob": "1977-07-30"
+    },
+    {
+        "name": "Grace Davis",
+        "department": "Product Management",
+        "phoneNumber": "+1 012-345-6789",
+        "dob": "1981-05-09"
+    }
+]
